@@ -1,3 +1,3 @@
 
 def name():
-   return 'Connor'
+   return 'Your name'
